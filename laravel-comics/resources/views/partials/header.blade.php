@@ -1,4 +1,7 @@
-<header>
+<header class="container-fluid">
+  <div class="container">
+    <img class="logo" src="../img/dc-logo.png" alt="logo">
+  </div>
   <nav>
     <ul>
       <li>

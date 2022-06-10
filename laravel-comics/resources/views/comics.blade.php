@@ -7,7 +7,6 @@
 @section('mainContent')
     <h1>Comics</h1>
     {{-- @dump($comics) --}}
-
     <div class="container cards-container">
       <div class="card-group">
         <div class="btn-top">Current Series</div>
@@ -25,10 +24,4 @@
         </div> <!-- /btn-top -->   
       </div> <!-- /card-group -->   
     </div> <!-- /container cards-container -->
-
-
-
-
-
-
 @endsection
